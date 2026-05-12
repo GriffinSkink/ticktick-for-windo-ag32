@@ -1,4 +1,4 @@
-# 
+# new TickTick for Windows Extension | automation + gantt-charts offers the most advanced TickTick for Windows extension, with automation and gantt-charts. Ideal for Windows
 
 
 
